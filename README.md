@@ -1,1 +1,1 @@
-"# simple-ATM" 
+run npx command 003_project_simple_atm
